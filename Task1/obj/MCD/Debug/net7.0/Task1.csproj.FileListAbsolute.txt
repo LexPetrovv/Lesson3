@@ -1,0 +1,4 @@
+C:\Users\Hp\Desktop\C#\Lesson3\Task1\obj\MCD\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Lesson3\Task1\obj\MCD\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Lesson3\Task1\obj\MCD\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Lesson3\Task1\obj\MCD\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
